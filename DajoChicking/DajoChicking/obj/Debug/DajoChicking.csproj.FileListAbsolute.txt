@@ -19,6 +19,8 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
+<<<<<<< HEAD
+=======
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.pdb
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
@@ -40,3 +42,4 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.pdb
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csprojResolveAssemblyReference.cache
+>>>>>>> bbda6ec94ad900de40ccaaa3c1ce27dac1e6fc8b

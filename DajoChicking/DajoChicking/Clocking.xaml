@@ -37,6 +37,27 @@
             <Label FontSize="Small"
                    HorizontalOptions="Center"
                    Text="Name Surname" />
+<<<<<<< HEAD
+      
+     
+      <Frame>
+        
+  
+
+        <StackLayout>
+          
+          <DatePicker x:Name="datePicker" IsVisible="false"/>
+          <TimePicker x:Name="timePicker" IsVisible="false"/>
+         
+          <Label 
+            Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'} Source={x:Reference timePicker}"
+            FontSize="Large"
+            HorizontalOptions="Center">
+         </Label>
+          
+         <Label 
+            Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}' Source={x:Reference datePicker}}"
+=======
 
 
             <Frame>
@@ -53,6 +74,7 @@
 
                     <Label 
             Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}'}"
+>>>>>>> bbda6ec94ad900de40ccaaa3c1ce27dac1e6fc8b
             FontSize="Small"
             HorizontalOptions="Center" >
                     </Label>
