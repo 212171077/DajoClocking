@@ -1,0 +1,2 @@
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\DajoChicking.WinPhone.csproj;neutral
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral

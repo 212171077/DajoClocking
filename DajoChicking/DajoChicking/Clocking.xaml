@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DajoChicking.Clocking"
+             BackgroundColor="White"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="10, 20, 10, 10"
+                Android="10, 10, 10, 10"
+                WinPhone="10, 10, 10, 10" />
+  </ContentPage.Padding>
+  <ContentPage.Content>
+    
+    
+
+      
+    <StackLayout Padding="5,0"
+                 Margin="0"
+                 VerticalOptions="Center"
+                 >
+      
+     
+                     <controls:CircleImage Source="icon.png"  x:Name="profileImage">
+                    <controls:CircleImage.WidthRequest>
+                      <OnPlatform x:TypeArguments="x:Double">
+                        <On Platform="Android, iOS">55</On>
+                        <On Platform="WinPhone">75</On>
+                      </OnPlatform>
+                    </controls:CircleImage.WidthRequest>
+                    <controls:CircleImage.HeightRequest>
+                      <OnPlatform x:TypeArguments="x:Double">
+                        <On Platform="Android, iOS">55</On>
+                        <On Platform="WinPhone">75</On>
+                      </OnPlatform>
+                    </controls:CircleImage.HeightRequest>
+                  </controls:CircleImage>
+                  <Label FontSize="Small"
+                   HorizontalOptions="Center"
+                   Text="Name Surname" />
+      
+     
+      <Frame>
+        
+  
+
+        <StackLayout>
+         
+          <Label 
+            Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'}"
+            FontSize="Large"
+            HorizontalOptions="Center">
+         </Label>
+          
+         <Label 
+            Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}'}"
+            FontSize="Small"
+            HorizontalOptions="Center" >
+         </Label>
+
+          <Button Text="Clock IN"
+                  TextColor="White"
+                  BackgroundColor="Green"
+                  HorizontalOptions="Fill"
+                  BorderRadius = "5"
+                  BorderWidth = "5"/>
+         
+          <Button Text="Clock Out"
+                  TextColor="White"
+                  BackgroundColor="Red"
+                  HorizontalOptions="Fill"
+                  BorderRadius = "5"
+                  BorderWidth = "5"/>
+            
+      
+        </StackLayout>
+      </Frame>
+
+    </StackLayout>
+  </ContentPage.Content>
+
+
+
+</ContentPage>
