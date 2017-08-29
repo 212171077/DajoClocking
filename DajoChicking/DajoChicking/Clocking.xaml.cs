@@ -17,6 +17,7 @@ namespace DajoChicking
             InitializeComponent();
             //Setting image to the image view based on 
             //A specific platform
+           
             profileImage.Source = Device.OnPlatform(
             iOS: ImageSource.FromResource("DajoChicking.profile.png"),
             Android: ImageSource.FromResource("DajoChicking.profile.png"),

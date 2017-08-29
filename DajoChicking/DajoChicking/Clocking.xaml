@@ -46,15 +46,18 @@
   
 
         <StackLayout>
+          
+          <DatePicker x:Name="datePicker" IsVisible="false"/>
+          <TimePicker x:Name="timePicker" IsVisible="false"/>
          
           <Label 
-            Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'}"
+            Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'} Source={x:Reference timePicker}"
             FontSize="Large"
             HorizontalOptions="Center">
          </Label>
           
          <Label 
-            Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}'}"
+            Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}' Source={x:Reference datePicker}}"
             FontSize="Small"
             HorizontalOptions="Center" >
          </Label>
