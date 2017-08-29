@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\patrick\documents\visual studio 2015\projects\dajoclicking\dajochicking\dajochicking.windows\obj\debug\intermediatexaml\dajochicking.windows.exe" HashGuid="5ffccf7f-855e-3225-5151-e7fad152cb33" />
-    <ReferenceAssembly PathName="c:\users\patrick\documents\visual studio 2015\projects\dajoclicking\dajochicking\dajochicking\bin\debug\dajochicking.dll" HashGuid="ed51608e-de7e-efca-a642-37a148a68b20" />
+    <ReferenceAssembly PathName="c:\users\patrick\documents\visual studio 2015\projects\dajoclicking\dajochicking\dajochicking\bin\debug\dajochicking.dll" HashGuid="7c2362a3-94eb-0b25-5bf8-aee6d0db92c2" />
     <ReferenceAssembly PathName="c:\users\patrick\documents\visual studio 2015\projects\dajoclicking\packages\xam.plugins.forms.imagecircle.1.8.1\lib\win81\imagecircle.forms.plugin.abstractions.dll" HashGuid="28ac2fb9-7479-5917-8c17-c740eb4f0887" />
     <ReferenceAssembly PathName="c:\users\patrick\documents\visual studio 2015\projects\dajoclicking\packages\xam.plugins.forms.imagecircle.1.8.1\lib\win81\imagecircle.forms.plugin.windowsstore.dll" HashGuid="dd40e1e6-5a3a-09a3-4326-909c0fa342cd" />
     <ReferenceAssembly PathName="c:\users\patrick\documents\visual studio 2015\projects\dajoclicking\packages\xamarin.forms.2.3.4.267\lib\win81\xamarin.forms.core.dll" HashGuid="ce7e3dc8-18ca-8130-fa7a-5e5224c7b440" />
