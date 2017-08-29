@@ -39,3 +39,4 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.WorkerHistory.xaml.g.cs
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csprojResolveAssemblyReference.cache
