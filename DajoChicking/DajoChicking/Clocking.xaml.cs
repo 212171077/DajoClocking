@@ -10,8 +10,7 @@ namespace DajoChicking
 {
     public partial class Clocking : ContentPage
     {
-        String Date = "2017/08/28";
-        String Time = "13:26:00:00";
+     
         public Clocking()
         {
             InitializeComponent();
