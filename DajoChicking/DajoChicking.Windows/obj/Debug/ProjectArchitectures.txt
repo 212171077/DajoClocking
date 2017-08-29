@@ -1,2 +1,0 @@
-C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\DajoChicking.Windows.csproj;neutral
-C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
