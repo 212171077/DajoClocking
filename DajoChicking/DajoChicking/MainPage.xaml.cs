@@ -34,9 +34,24 @@ namespace DajoChicking
                     "Login Successful...!!",
                     "Ok",
                     "Cancel");*/
-               
-                await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
+
+                if (username.Equals("A"))
+                {
+                    await Navigation.PushModalAsync(new AdminPage(), false);
+                }
+                else if (username.Equals("W"))
+                {
+                    await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
+                }
+                else {
+                    this.DisplayAlert(
+                   "Invalid User",
+                   "Please enter A or W as username",
+                   "Ok",
+                   "Cancel");
+                }
                 
+
             }
             else
             {

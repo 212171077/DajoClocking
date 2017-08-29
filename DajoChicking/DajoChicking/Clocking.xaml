@@ -37,8 +37,7 @@
             <Label FontSize="Small"
                    HorizontalOptions="Center"
                    Text="Name Surname" />
-<<<<<<< HEAD
-      
+
      
       <Frame>
         
@@ -54,47 +53,40 @@
             FontSize="Large"
             HorizontalOptions="Center">
          </Label>
-          
-         <Label 
-            Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}' Source={x:Reference datePicker}}"
-=======
 
-
-            <Frame>
-
-
+          <Label Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}' Source={x:Reference datePicker}}"></Label>
 
                 <StackLayout>
 
                     <Label 
-            Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'}"
-            FontSize="Large"
-            HorizontalOptions="Center">
+                    Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'}"
+                    FontSize="Large"
+                    HorizontalOptions="Center">
                     </Label>
 
                     <Label 
-            Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}'}"
->>>>>>> bbda6ec94ad900de40ccaaa3c1ce27dac1e6fc8b
-            FontSize="Small"
-            HorizontalOptions="Center" >
+                    Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}'}"
+                    FontSize="Small"
+                    HorizontalOptions="Center" >
                     </Label>
 
                     <Button Text="Clock IN"
-                  TextColor="White"
-                  BackgroundColor="Green"
-                  HorizontalOptions="Fill"
-                  BorderRadius = "5"
-                  BorderWidth = "5"/>
+                    TextColor="White"
+                    BackgroundColor="Green"
+                    HorizontalOptions="Fill"
+                    BorderRadius = "5"
+                    BorderWidth = "5"/>
 
                     <Button Text="Clock Out"
-                  TextColor="White"
-                  BackgroundColor="Red"
-                  HorizontalOptions="Fill"
-                  BorderRadius = "5"
-                  BorderWidth = "5"/>
-
-
+                    TextColor="White"
+                    BackgroundColor="Red"
+                    HorizontalOptions="Fill"
+                    BorderRadius = "5"
+                    BorderWidth = "5"/>
+                  
                 </StackLayout>
+
+        </StackLayout>
             </Frame>
 
         </StackLayout>
