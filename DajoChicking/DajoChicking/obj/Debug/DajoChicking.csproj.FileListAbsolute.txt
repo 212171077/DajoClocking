@@ -21,13 +21,6 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csprojResolveAssemblyReference.cache
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.AdminPage.xaml.g.cs
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.ViewWorkersHistory.xaml.g.cs
-C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
-C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
-<<<<<<< HEAD
-C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
-C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
-C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
-C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
 =======
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.pdb
@@ -52,4 +45,7 @@ C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChic
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.ViewWorkersHistory.xaml.g.cs
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.pdb
->>>>>>> e4a40922bbadf5023e8e55acc15a45686ba5f82d
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
