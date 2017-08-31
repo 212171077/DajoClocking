@@ -13,6 +13,52 @@ namespace DajoChicking
         public ViewWorkersHistory()
         {
             InitializeComponent();
+
+            MainListView.ItemsSource = people;
         }
+
+        private readonly List<Person> people = new List<Person> {
+                new Person {
+                    Name = "Patrick",
+                    Surname = "Mthombeni",
+                    ID = "93697845263",
+                    Status = "Clocked In"
+                },
+
+                new Person {
+                    Name = "Patrick",
+                    Surname = "Mthombeni",
+                    ID = "93697845263",
+                    Status = "Clocked In"
+                },
+
+                new Person {
+                    Name = "Patrick",
+                    Surname = "Mthombeni",
+                    ID = "93697845263",
+                    Status = "Clocked In"
+                },
+
+                new Person {
+                    Name = "Patrick",
+                    Surname = "Mthombeni",
+                    ID = "93697845263",
+                    Status = "Clocked In"
+                },
+
+                new Person {
+                    Name = "Patrick",
+                    Surname = "Mthombeni",
+                    ID = "93697845263",
+                    Status = "Clocked In"
+                },
+
+                new Person {
+                    Name = "Patrick",
+                    Surname = "Mthombeni",
+                    ID = "93697845263",
+                    Status = "Clocked In"
+                }
+        };
     }
 }
