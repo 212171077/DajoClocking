@@ -35,32 +35,34 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AdminPage.xaml.cs">
+    <Compile Include="Views\AdminPage.xaml.cs">
       <DependentUpon>AdminPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Clocking.xaml.cs">
+    <Compile Include="Views\Clocking.xaml.cs">
       <DependentUpon>Clocking.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainPage.xaml.cs">
+    <Compile Include="Views\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Person.cs" />
+    <Compile Include="Models\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ViewWorkersHistory.xaml.cs">
+    <Compile Include="Services\PeopleServices.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="Views\ViewWorkersHistory.xaml.cs">
       <DependentUpon>ViewWorkersHistory.xaml</DependentUpon>
     </Compile>
-    <Compile Include="WorkerHistory.xaml.cs">
+    <Compile Include="Views\WorkerHistory.xaml.cs">
       <DependentUpon>WorkerHistory.xaml</DependentUpon>
     </Compile>
-    <Compile Include="WorkerTabbedPage.xaml.cs">
+    <Compile Include="Views\WorkerTabbedPage.xaml.cs">
       <DependentUpon>WorkerTabbedPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MainPage.xaml">
+    <EmbeddedResource Include="Views\MainPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -95,7 +97,7 @@
     <EmbeddedResource Include="logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Clocking.xaml">
+    <EmbeddedResource Include="Views\Clocking.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -104,29 +106,30 @@
     <EmbeddedResource Include="profile.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="WorkerTabbedPage.xaml">
+    <EmbeddedResource Include="Views\WorkerTabbedPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="WorkerHistory.xaml">
+    <EmbeddedResource Include="Views\WorkerHistory.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="AdminPage.xaml">
+    <EmbeddedResource Include="Views\AdminPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="ViewWorkersHistory.xaml">
+    <EmbeddedResource Include="Views\ViewWorkersHistory.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.3.4.267\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.3.4.267\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

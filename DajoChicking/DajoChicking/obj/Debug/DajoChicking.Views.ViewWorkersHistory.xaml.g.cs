@@ -12,7 +12,7 @@ namespace DajoChicking {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Desktop\\VisualStudioProjects\\DajoClocking\\DajoChicking\\DajoChick" +
-        "ing\\ViewWorkersHistory.xaml")]
+        "ing\\Views\\ViewWorkersHistory.xaml")]
     public partial class ViewWorkersHistory : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

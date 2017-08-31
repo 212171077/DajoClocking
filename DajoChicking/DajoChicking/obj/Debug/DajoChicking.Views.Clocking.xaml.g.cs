@@ -12,20 +12,24 @@ namespace DajoChicking {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Desktop\\VisualStudioProjects\\DajoClocking\\DajoChicking\\DajoChick" +
-        "ing\\WorkerHistory.xaml")]
-    public partial class WorkerHistory : global::Xamarin.Forms.ContentPage {
+        "ing\\Views\\Clocking.xaml")]
+    public partial class Clocking : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.SearchBar MainSearchBar;
+        private global::ImageCircle.Forms.Plugin.Abstractions.CircleImage profileImage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.ListView MainListView;
+        private global::Xamarin.Forms.DatePicker datePicker;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.TimePicker timePicker;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(WorkerHistory));
-            MainSearchBar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.SearchBar>(this, "MainSearchBar");
-            MainListView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "MainListView");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Clocking));
+            profileImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ImageCircle.Forms.Plugin.Abstractions.CircleImage>(this, "profileImage");
+            datePicker = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.DatePicker>(this, "datePicker");
+            timePicker = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.TimePicker>(this, "timePicker");
         }
     }
 }

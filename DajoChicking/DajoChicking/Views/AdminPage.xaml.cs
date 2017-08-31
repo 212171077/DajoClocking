@@ -13,6 +13,7 @@ namespace DajoChicking
         public AdminPage()
         {
             InitializeComponent();
+
         }
     }
 }
