@@ -68,6 +68,10 @@ namespace DajoChicking
         {
             Boolean isValidateUser = true;
 
+            if(username.Length==0 || password.Length==0)
+            {
+                isValidateUser = false;
+            }
             return isValidateUser;
 
         }
