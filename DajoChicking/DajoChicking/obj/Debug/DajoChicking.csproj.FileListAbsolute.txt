@@ -23,3 +23,7 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.ViewWorkersHistory.xaml.g.cs
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
