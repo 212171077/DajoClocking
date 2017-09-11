@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+<<<<<<< HEAD
     <UseSimulator>true</UseSimulator>
+=======
+    <UseSimulator>false</UseSimulator>
+>>>>>>> 1b9a56aba221a735bd4c5d8b31ecd81ca16ea76e
   </PropertyGroup>
 </Project>

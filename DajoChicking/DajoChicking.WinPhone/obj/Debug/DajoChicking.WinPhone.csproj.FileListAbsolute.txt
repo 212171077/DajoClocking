@@ -1,3 +1,59 @@
+<<<<<<< HEAD
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.csprojResolveAssemblyReference.cache
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.g.i.cs
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.g.cs
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.g.i.cs
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.g.cs
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.xaml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.xaml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.xbf
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.xbf
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\App.xbf
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\MainPage.xbf
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.xr.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.exe
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.pdb
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\resources.pri
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\AppxManifest.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.build.appxrecipe
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.dll
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.dll
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.Phone.dll
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.pdb
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.pri
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.exe
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.pdb
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.csproj.GenerateResource.Cache
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\priconfig.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\layout.resfiles
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\resources.resfiles
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\pri.resfiles
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\qualifiers.txt
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
+c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.WindowsPhoneRT.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.WindowsPhoneRT.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.WindowsPhoneRT.xml
+=======
+>>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\App.xbf
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\MainPage.xbf
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.xr.xml
@@ -51,6 +107,8 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\ProjectArchitectures.txt
+<<<<<<< HEAD
+=======
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\App.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\MainPage.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.xr.xml
@@ -104,3 +162,63 @@ C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChic
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\ProjectArchitectures.txt
+<<<<<<< HEAD
+>>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
+=======
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\App.xbf
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\MainPage.xbf
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.xr.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.exe
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\resources.pri
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\AppxManifest.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.build.appxrecipe
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.WindowsPhoneRT.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.Phone.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.WindowsPhoneRT.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\ImageCircle.Forms.Plugin.WindowsPhoneRT.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.pri
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.xaml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.xbf
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.exe
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.csproj.GenerateResource.Cache
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\priconfig.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\layout.resfiles
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\resources.resfiles
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\pri.resfiles
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\qualifiers.txt
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.exe.config
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Newtonsoft.Json.xml
+>>>>>>> 7571ecdec6f946fffb0572646a52587a7ce64cc0

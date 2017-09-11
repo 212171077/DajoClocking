@@ -11,8 +11,7 @@ namespace DajoChicking.ViewModels
     public class MainViewModel : System.ComponentModel.INotifyPropertyChanged
     {
         public List<Person> peopleList { get; set; }
-
-        public List<Person> PersonList {
+       public List<Person> PersonList {
             get { return peopleList; }
             set { peopleList = value;
                 OnProprtyChanced();
@@ -21,10 +20,15 @@ namespace DajoChicking.ViewModels
 
         public MainViewModel()
         {
-            var peopleService = new Services.PeopleServices();
+            //var peopleService = new Services.PeopleServices();
+            //peopleList = peopleService.getPeople();
+            //getPersonAsync();
 
-            peopleList = peopleService.getPeople();
+
         }
+
+       
+
 
         public event PropertyChangedEventHandler PropertyChanged;
 
