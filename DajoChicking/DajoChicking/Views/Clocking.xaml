@@ -4,7 +4,7 @@
              x:Class="DajoChicking.Clocking"
              BackgroundColor="White"
              Title="Clocking" 
-             Icon="ic_history_black_24dp.png"
+             Icon="ic_alarm_black_24dp.png"
              xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions">
 
     <ContentPage.Padding>
@@ -49,12 +49,13 @@
           <TimePicker x:Name="timePicker" IsVisible="false"/>
          
           <Label 
-            Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'} Source={x:Reference timePicker}"
+            Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'} 
+            Source={x:Reference timePicker}"
             FontSize="Large"
             HorizontalOptions="Center">
          </Label>
 
-          <Label Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}' Source={x:Reference datePicker}}"></Label>
+                    <Label Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}' Source={x:Reference datePicker}} "  HorizontalOptions="Center"></Label>
 
                 <StackLayout>
 

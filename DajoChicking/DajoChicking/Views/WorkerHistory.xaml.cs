@@ -16,63 +16,18 @@ namespace DajoChicking
         {
             InitializeComponent();
 
-            MainListView.ItemsSource = people;
+            //MainListView.ItemsSource = people;
         }
-
-
-        private readonly List<string> _names = new List<string> {
-                "Patrick","Owami","Themba","Pat","Momelezi"
-        };
-
-        private readonly List<Person> people = new List<Person> {
-                new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
-                    ID = "93697845263",
-                    Status = "Clocked In"
-                },
-
-                new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
-                    ID = "93697845263",
-                    Status = "Clocked In"
-                },
-
-                new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
-                    ID = "93697845263",
-                    Status = "Clocked In"
-                },
-
-                new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
-                    ID = "93697845263",
-                    Status = "Clocked In"
-                },
-
-                new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
-                    ID = "93697845263",
-                    Status = "Clocked In"
-                },
-
-                new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
-                    ID = "93697845263",
-                    Status = "Clocked In"
-                }
-        };
-
-        private void MainSearchBar_SearchButtonPressed(object sender, EventArgs e)
+        
+        public void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            string keyword = MainSearchBar.Text;
-            IEnumerable <string>searchResult= _names.Where(name => name.ToLower().Contains(keyword.ToLower()));
-            MainListView.ItemsSource = searchResult;
+            if (e.SelectedItem == null) return; // has been set to null, do not 'process' tapped event
+
+      
+            DisplayAlert("Tapped", (e.SelectedItem as Person).Name + " row was tapped", "OK" );
+            ((ListView)sender).SelectedItem = null; // de-select the row
         }
+        
+        
     }
 }

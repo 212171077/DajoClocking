@@ -74,6 +74,21 @@
     <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\Scripts\jquery-3.1.1.intellisense.js">
+      <PackagePath>DajoChicking\Scripts\jquery-3.1.1.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\Scripts\jquery-3.1.1.js">
+      <PackagePath>DajoChicking\Scripts\jquery-3.1.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\Scripts\jquery-3.1.1.min.js">
+      <PackagePath>DajoChicking\Scripts\jquery-3.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\Scripts\jquery-3.1.1.slim.js">
+      <PackagePath>DajoChicking\Scripts\jquery-3.1.1.slim.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\Scripts\jquery-3.1.1.slim.min.js">
+      <PackagePath>DajoChicking\Scripts\jquery-3.1.1.slim.min.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
     </AppxPackagedFile>

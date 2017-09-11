@@ -20,36 +20,36 @@ namespace DajoChicking.Services
                 },
 
                 new Person {
-                    Name = "Patrick",
+                    Name = "Themba",
+                    Surname = "sibiya",
+                    ID = "93697845263",
+                    Status = "Clocked In"
+                },
+
+                new Person {
+                    Name = "Owami",
                     Surname = "Mthombeni",
                     ID = "93697845263",
                     Status = "Clocked In"
                 },
 
                 new Person {
-                    Name = "Patrick",
+                    Name = "Oupa",
                     Surname = "Mthombeni",
                     ID = "93697845263",
                     Status = "Clocked In"
                 },
 
                 new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
+                    Name = "Bafana",
+                    Surname = "Bafana",
                     ID = "93697845263",
                     Status = "Clocked In"
                 },
 
                 new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
-                    ID = "93697845263",
-                    Status = "Clocked In"
-                },
-
-                new Person {
-                    Name = "Patrick",
-                    Surname = "Mthombeni",
+                    Name = "Chriss",
+                    Surname = "Sibiya",
                     ID = "93697845263",
                     Status = "Clocked In"
                 }
