@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\DajoChicking.Windows.csproj;neutral
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
 =======
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\DajoChicking.Windows.csproj;neutral
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
 >>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
+=======
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\DajoChicking.Windows.csproj;neutral
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
+>>>>>>> 7571ecdec6f946fffb0572646a52587a7ce64cc0

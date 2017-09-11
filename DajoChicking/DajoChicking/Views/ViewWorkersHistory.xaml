@@ -3,11 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="DajoChicking.ViewWorkersHistory"
              BackgroundColor="White"
-<<<<<<< HEAD
              Title="Worker's History"
-=======
-             Title="Workers"
->>>>>>> e4a40922bbadf5023e8e55acc15a45686ba5f82d
              Icon="ic_history_black_24dp.png">
 
     <ContentPage.Padding>

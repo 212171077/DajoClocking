@@ -58,17 +58,20 @@
 
                 <StackLayout>
 
-                    <Label 
+                  <Label 
                     Text="{Binding Time, StringFormat='{}{0:hh\\:mm}'}"
                     FontSize="Large"
-                    HorizontalOptions="Center">
-                    </Label>
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center">
+                  </Label>
 
-                    <Label 
+                  <Label
                     Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}'}"
                     FontSize="Small"
-                    HorizontalOptions="Center" >
-                    </Label>
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center">
+                    
+                  </Label>
 
                     <Button Text="Clock IN"
                     TextColor="White"

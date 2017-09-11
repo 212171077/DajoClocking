@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?><XamlCompilerSaveState><ReferenceAssemblyList><ReferenceAssembly PathName="c:\users\patrick\documents\visual studio 2015\projects\dajoclicking\dajochicking\dajochicking\bin\debug\dajochicking.dll" HashGuid="ed51608e-de7e-efca-a642-37a148a68b20" /></ReferenceAssemblyList><XamlSourceFileDataList><XamlSourceFileData XamlFileName="App.xaml" ClassFullName="DajoChicking.UWP.App" GeneratedCodePathPrefix="C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.UWP\obj\x86\Debug\App" XamlFileTimeAtLastCompileInTicks="636395932193423294" HasBoundEventAssignments="False" /><XamlSourceFileData XamlFileName="MainPage.xaml" ClassFullName="DajoChicking.UWP.MainPage" GeneratedCodePathPrefix="C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.UWP\obj\x86\Debug\MainPage" XamlFileTimeAtLastCompileInTicks="636395932194048590" HasBoundEventAssignments="False" /></XamlSourceFileDataList></XamlCompilerSaveState>
 =======
 <<<<<<< HEAD
@@ -11,3 +12,6 @@
 >>>>>>> e4a40922bbadf5023e8e55acc15a45686ba5f82d
 >>>>>>> 9b10d74040aa5120d9984adc2ceedb411ffcccf4
 >>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
+=======
+﻿<?xml version="1.0" encoding="utf-8"?><XamlCompilerSaveState><ReferenceAssemblyList><ReferenceAssembly PathName="c:\users\christoph sibiya\documents\visual studio 2015\projects\dajochicking\dajochicking\dajochicking\bin\debug\dajochicking.dll" HashGuid="41a23b06-93d5-526b-af7f-61fd8a20f626" /></ReferenceAssemblyList><XamlSourceFileDataList><XamlSourceFileData XamlFileName="App.xaml" ClassFullName="DajoChicking.UWP.App" GeneratedCodePathPrefix="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.UWP\obj\x86\Debug\App" XamlFileTimeAtLastCompileInTicks="636392534022359965" HasBoundEventAssignments="False" /><XamlSourceFileData XamlFileName="MainPage.xaml" ClassFullName="DajoChicking.UWP.MainPage" GeneratedCodePathPrefix="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.UWP\obj\x86\Debug\MainPage" XamlFileTimeAtLastCompileInTicks="636392534022440182" HasBoundEventAssignments="False" /></XamlSourceFileDataList></XamlCompilerSaveState>
+>>>>>>> 7571ecdec6f946fffb0572646a52587a7ce64cc0
