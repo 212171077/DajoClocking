@@ -35,7 +35,7 @@ namespace DajoChicking
                     "Ok",
                     "Cancel");*/
                
-                await Navigation.PushModalAsync(new Clocking(), false);
+                await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
                 
             }
             else
