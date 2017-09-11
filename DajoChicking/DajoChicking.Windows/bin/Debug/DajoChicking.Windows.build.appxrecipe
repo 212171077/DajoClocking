@@ -10,18 +10,27 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>7437c7f2-c095-4b48-b916-2871e57add50</PackageIdentityName>
     <PackageIdentityPublisher>CN=Christoph Sibiya</PackageIdentityPublisher>
+<<<<<<< HEAD
     <IntermediateOutputPath>C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\obj\Debug\</IntermediateOutputPath>
+=======
+    <IntermediateOutputPath>C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\obj\Debug\</IntermediateOutputPath>
+>>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <AppXManifest Include="C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\bin\Debug\AppxManifest.xml">
+=======
+    <AppXManifest Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\AppxManifest.xml">
+>>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\bin\Debug\DajoChicking.Windows.exe">
       <PackagePath>DajoChicking.Windows.exe</PackagePath>
     </AppxPackagedFile>
@@ -96,6 +105,82 @@
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\bin\Debug\resources.pri">
+=======
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\DajoChicking.Windows.exe">
+      <PackagePath>DajoChicking.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll">
+      <PackagePath>DajoChicking.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xam.Plugins.Forms.ImageCircle.1.8.1\lib\win81\ImageCircle.Forms.Plugin.Abstractions.dll">
+      <PackagePath>ImageCircle.Forms.Plugin.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xam.Plugins.Forms.ImageCircle.1.8.1\lib\win81\ImageCircle.Forms.Plugin.WindowsStore.dll">
+      <PackagePath>ImageCircle.Forms.Plugin.WindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\DajoChicking.Windows.xr.xml">
+      <PackagePath>DajoChicking.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\packages\Xamarin.Forms.2.3.4.267\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\resources.pri">
+>>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>

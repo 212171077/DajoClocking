@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DajoChicking.ViewWorkersHistory"
+             BackgroundColor="White"
+<<<<<<< HEAD
+             Title="Worker's History"
+=======
+             Title="Workers"
+>>>>>>> e4a40922bbadf5023e8e55acc15a45686ba5f82d
+             Icon="ic_history_black_24dp.png">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                iOS="10, 20, 10, 10"
+                Android="10, 10, 10, 10"
+                WinPhone="10, 10, 10, 10" />
+    </ContentPage.Padding>
+
+    <ListView x:Name="MainListView" 
+        HasUnevenRows="True">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal">
+                        <Grid BackgroundColor="White"
+                              HeightRequest="1"/>
+
+                        <StackLayout Orientation="Vertical" 
+                                 Padding="20">
+                            <Label Text="{Binding Name}" Font="Bold"/>
+                            <Label Text="{Binding ID}" Font="Bold" Opacity="0.6"/>
+                            
+                        </StackLayout>
+
+                        <StackLayout Orientation="Vertical" 
+                                 Padding="20" >
+                            <Label Text="{Binding Surname}" Font="Bold"/>
+                            <Label Text="{Binding Status}" Font="Bold" Opacity="0.6"/>
+                        </StackLayout>
+
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

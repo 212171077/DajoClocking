@@ -11,8 +11,13 @@
 namespace DajoChicking {
     
     
+<<<<<<< HEAD:DajoChicking/DajoChicking/obj/Debug/DajoChicking.MainPage.xaml.g.cs
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Documents\\Visual Studio 2015\\Projects\\DajoClicking\\DajoChicking\\" +
         "DajoChicking\\MainPage.xaml")]
+=======
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Desktop\\VisualStudioProjects\\DajoClocking\\DajoChicking\\DajoChick" +
+        "ing\\Views\\MainPage.xaml")]
+>>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e:DajoChicking/DajoChicking/obj/Debug/DajoChicking.Views.MainPage.xaml.g.cs
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

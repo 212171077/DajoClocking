@@ -11,18 +11,13 @@
 namespace DajoChicking {
     
     
-<<<<<<< HEAD
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Documents\\Visual Studio 2015\\Projects\\DajoClicking\\DajoChicking\\" +
-        "DajoChicking\\App.xaml")]
-=======
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Desktop\\VisualStudioProjects\\DajoClocking\\DajoChicking\\DajoChick" +
-        "ing\\App.xaml")]
->>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
-    public partial class App : global::Xamarin.Forms.Application {
+        "ing\\Views\\WorkerTabbedPage.xaml")]
+    public partial class WorkerTabbedPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(WorkerTabbedPage));
         }
     }
 }
