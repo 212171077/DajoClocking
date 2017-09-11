@@ -157,3 +157,5 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri.xml
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\Newtonsoft.Json.xml

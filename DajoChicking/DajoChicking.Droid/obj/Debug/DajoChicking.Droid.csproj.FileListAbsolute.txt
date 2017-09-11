@@ -212,5 +212,12 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.dll.config
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\DajoChicking.Droid.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.dll.mdb

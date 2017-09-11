@@ -11,9 +11,13 @@ namespace DajoChicking
     {
         String username;
         String password;
+        public List<String> helloList { get; set; }
+
+
         public MainPage()
         {
             InitializeComponent();
+           
             //Setting image to the image view based on 
             //A specific platform
             image.Source = Device.OnPlatform(
@@ -26,6 +30,7 @@ namespace DajoChicking
         {
             password = txtPassword.Text;
             username = txtUsername.Text;
+            //getHelloAsync();
 
             if (validateUser(username, password))
             {
@@ -75,5 +80,16 @@ namespace DajoChicking
             return isValidateUser;
 
         }
+
+        /*private async Task getHelloAsync()
+        {
+            var dajoClockingService = new Services.DajoClockingService();
+            helloList = await dajoClockingService.getHelloAsync();
+            this.DisplayAlert(
+                  "Hello",
+                  "Data :" + helloList,
+                  "Ok",
+                  "Cancel");
+        }*/
     }
 }

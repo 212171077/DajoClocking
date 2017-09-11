@@ -11,13 +11,8 @@
 namespace DajoChicking {
     
     
-<<<<<<< HEAD:DajoChicking/DajoChicking/obj/Debug/DajoChicking.WorkerHistory.xaml.g.cs
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Christoph Sibiya\\documents\\visual studio 2015\\Projects\\DajoChicking\\Dajo" +
-        "Chicking\\DajoChicking\\WorkerHistory.xaml")]
-=======
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Desktop\\VisualStudioProjects\\DajoClocking\\DajoChicking\\DajoChick" +
-        "ing\\Views\\WorkerHistory.xaml")]
->>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e:DajoChicking/DajoChicking/obj/Debug/DajoChicking.Views.WorkerHistory.xaml.g.cs
+        "Chicking\\DajoChicking\\Views\\WorkerHistory.xaml")]
     public partial class WorkerHistory : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

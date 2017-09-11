@@ -13,7 +13,7 @@ namespace Plugin.RestClient
     /// </summary>
     public class RestClient<T>
     {
-        private const string WebServiceUrl = "http://taskmodel.azurewebsites.net/api/TaskModels/";
+        private const string WebServiceUrl = "http://192.168.1.148:8080/FirstRestWebservice/rest/hello/getPerson/";
 
         public async Task<List<T>> GetAsync()
         {

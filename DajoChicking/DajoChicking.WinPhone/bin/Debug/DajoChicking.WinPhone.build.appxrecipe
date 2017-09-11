@@ -25,6 +25,9 @@
     <AppxPackagedFile Include="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.exe">
       <PackagePath>DajoChicking.WinPhone.exe</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.exe.config">
+      <PackagePath>DajoChicking.WinPhone.exe.config</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll">
       <PackagePath>DajoChicking.dll</PackagePath>
     </AppxPackagedFile>
@@ -48,6 +51,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\packages\Xamarin.Forms.2.3.4.267\lib\wpa81\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
