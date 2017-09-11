@@ -8,6 +8,8 @@ namespace DajoChicking
 {
     public class Person
     {
+        public string Person_Id { get; set; }
+
         public string Name { get; set; }
 
         public string Surname { get; set; }

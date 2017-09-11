@@ -39,10 +39,9 @@ namespace DajoChicking
                     "Login Successful...!!",
                     "Ok",
                     "Cancel");*/
-<<<<<<< HEAD:DajoChicking/DajoChicking/MainPage.xaml.cs
+
                
                 await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
-=======
 
                 if (username.Equals("A"))
                 {
@@ -59,7 +58,7 @@ namespace DajoChicking
                    "Ok",
                    "Cancel");
                 }
->>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e:DajoChicking/DajoChicking/Views/MainPage.xaml.cs
+
                 
 
             }

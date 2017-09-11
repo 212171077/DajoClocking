@@ -11,8 +11,8 @@
 namespace DajoChicking {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Christoph Sibiya\\documents\\visual studio 2015\\Projects\\DajoChicking\\Dajo" +
-        "Chicking\\DajoChicking\\Views\\Clocking.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Documents\\Visual Studio 2015\\Projects\\DajoClocking\\DajoChicking\\" +
+        "DajoChicking\\Views\\Clocking.xaml")]
     public partial class Clocking : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

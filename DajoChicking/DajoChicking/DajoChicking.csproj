@@ -52,10 +52,6 @@
     </Compile>
     <Compile Include="Models\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WorkerHistory.xaml.cs">
-      <DependentUpon>WorkerHistory.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="WorkerTabbedPage.xaml.cs"/>
     <Compile Include="Services\PeopleServices.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="Views\MyHistory.xaml.cs">
@@ -86,15 +82,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
-<<<<<<< HEAD
     <None Include="packages.config" />
     <None Include="Scripts\jquery-3.1.1.min.map" />
     <None Include="Scripts\jquery-3.1.1.slim.min.map" />
-=======
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
->>>>>>> 1b9a56aba221a735bd4c5d8b31ecd81ca16ea76e
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ImageCircle.Forms.Plugin.Abstractions, Version=1.8.1.0, Culture=neutral, processorArchitecture=MSIL">

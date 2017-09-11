@@ -16,41 +16,20 @@ namespace DajoChicking
     public partial class WorkerHistory : ContentPage
     {
         public List<Person> PersonList =new List<Person>();
-        private const string WebServiceUrl = "http://192.168.1.148:8080/FirstRestWebservice/rest/hello/getPerson/";
+        private const string WebServiceUrl = "http://192.168.1.148:8080/DajoClockingWS/rest/hello/getPerson/";
         public WorkerHistory()
         {
             InitializeComponent();
-            getPersonAsync();
+            await getPersonAsync();
 
-<<<<<<< HEAD
             //MainListView.ItemsSource = people;
         }
         
         public void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
-=======
+        { 
            
         }
 
-
-        private readonly List<string> _names = new List<string> {
-                "Patrick","Owami","Themba","Pat","Momelezi"
-        };
-
-   
-
-        private void MainSearchBar_SearchButtonPressed(object sender, EventArgs e)
->>>>>>> 1b9a56aba221a735bd4c5d8b31ecd81ca16ea76e
-        {
-            if (e.SelectedItem == null) return; // has been set to null, do not 'process' tapped event
-
-      
-            DisplayAlert("Tapped", (e.SelectedItem as Person).Name + " row was tapped", "OK" );
-            ((ListView)sender).SelectedItem = null; // de-select the row
-        }
-<<<<<<< HEAD
-        
-        
-=======
 
         private async Task getPersonAsync()
         {
@@ -67,14 +46,15 @@ namespace DajoChicking
                 // var plist = JsonConvert.DeserializeObject<List<Person>>(json);
                 foreach (var item in personList)
                 {
+                    
                     data = item.ToString();
                     var person = JsonConvert.DeserializeObject<Person>(data);
+                   
                     PersonList.Add(person);
                     MainListView.ItemsSource = PersonList;
                 }
             }
         }
 
->>>>>>> 1b9a56aba221a735bd4c5d8b31ecd81ca16ea76e
     }
 }
