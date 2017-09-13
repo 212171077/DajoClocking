@@ -4,8 +4,15 @@
 			 xmlns:ViewModels="clr-namespace:DajoChicking.ViewModels; assembly=DajoChicking"
              x:Class="DajoChicking.ViewWorkersHistory"
              BackgroundColor="White"
+<<<<<<< HEAD
              Title="Workers"
              Icon="ic_supervisor_account_black_24dp.png">
+=======
+
+             Title="Workers"
+             Icon="ic_supervisor_account_black_24dp.png">
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
 
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness"

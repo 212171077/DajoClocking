@@ -15,17 +15,28 @@ namespace DajoChicking
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class WorkerHistory : ContentPage
     {
+<<<<<<< HEAD
         public List<Person> PersonList = new List<Person>();
         private const string WebServiceUrl = "http://192.168.1.148:8080/FirstRestWebservice/rest/hello/getPerson/";
         public WorkerHistory()
         {
             InitializeComponent();
             getPersonAsync();
+=======
+        public List<Person> PersonList =new List<Person>();
+        private const string WebServiceUrl = "http://192.168.1.148:8080/DajoClockingWS/rest/hello/getPerson/";
+        public WorkerHistory()
+        {
+            InitializeComponent();
+            await getPersonAsync();
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
             //MainListView.ItemsSource = people;
         }
 
         public void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
         { 
+<<<<<<< HEAD
         }
 
 
@@ -45,6 +56,12 @@ namespace DajoChicking
         }
      
 
+=======
+           
+        }
+
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
         private async Task getPersonAsync()
         {
             var httpClient = new HttpClient();
@@ -60,12 +77,18 @@ namespace DajoChicking
                 // var plist = JsonConvert.DeserializeObject<List<Person>>(json);
                 foreach (var item in personList)
                 {
+                    
                     data = item.ToString();
                     var person = JsonConvert.DeserializeObject<Person>(data);
+                   
                     PersonList.Add(person);
                     MainListView.ItemsSource = PersonList;
                 }
             }
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
     }
 }

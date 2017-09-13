@@ -39,9 +39,15 @@ namespace DajoChicking
                     "Login Successful...!!",
                     "Ok",
                     "Cancel");*/
+<<<<<<< HEAD
                
                 await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
 
+=======
+
+               
+                await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
 
                 if (username.Equals("A"))
                 {
@@ -58,6 +64,10 @@ namespace DajoChicking
                    "Ok",
                    "Cancel");
                 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
                 
 
             }

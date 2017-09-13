@@ -52,10 +52,6 @@
     </Compile>
     <Compile Include="Models\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WorkerHistory.xaml.cs">
-      <DependentUpon>WorkerHistory.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="WorkerTabbedPage.xaml.cs"/>
     <Compile Include="Services\PeopleServices.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="Views\MyHistory.xaml.cs">

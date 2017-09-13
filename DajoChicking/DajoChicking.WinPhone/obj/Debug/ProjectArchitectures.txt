@@ -4,4 +4,7 @@ C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChic
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\DajoChicking.WinPhone.csproj;neutral
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
+<<<<<<< HEAD
 
+=======
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
