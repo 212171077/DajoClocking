@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\obj\Debug\DajoChicking.Windows.csprojResolveAssemblyReference.cache
 c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\obj\Debug\App.g.i.cs
 c:\users\christoph sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\obj\Debug\App.g.cs
@@ -52,8 +51,6 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\ImageCircle.Forms.Plugin.WindowsStore.pdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\ImageCircle.Forms.Plugin.WindowsStore.xml
-=======
->>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\bin\Debug\App.xbf
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\bin\Debug\MainPage.xbf
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\bin\Debug\DajoChicking.Windows.xr.xml
@@ -107,8 +104,6 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.Windows\obj\Debug\ProjectArchitectures.txt
-<<<<<<< HEAD
-=======
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\App.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\MainPage.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\bin\Debug\DajoChicking.Windows.xr.xml
@@ -162,9 +157,6 @@ C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChic
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri.xml
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Windows\obj\Debug\ProjectArchitectures.txt
-<<<<<<< HEAD
->>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e
-=======
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\App.xbf
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\MainPage.xbf
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\DajoChicking.Windows.xr.xml
@@ -220,4 +212,3 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\obj\Debug\ProjectArchitectures.txt
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Windows\bin\Debug\Newtonsoft.Json.xml
->>>>>>> 7571ecdec6f946fffb0572646a52587a7ce64cc0

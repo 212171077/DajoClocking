@@ -11,22 +11,8 @@
 namespace DajoChicking {
     
     
-<<<<<<< HEAD
-<<<<<<< HEAD:DajoChicking/DajoChicking/obj/Debug/DajoChicking.Clocking.xaml.g.cs
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Documents\\Visual Studio 2015\\Projects\\DajoClicking\\DajoChicking\\" +
-        "DajoChicking\\Clocking.xaml")]
-    public partial class Clocking : global::Xamarin.Forms.ContentPage {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Clocking));
-=======
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Patrick\\Desktop\\VisualStudioProjects\\DajoClocking\\DajoChicking\\DajoChick" +
         "ing\\Views\\ViewWorkersHistory.xaml")]
-=======
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Christoph Sibiya\\documents\\visual studio 2015\\Projects\\DajoChicking\\Dajo" +
-        "Chicking\\DajoChicking\\Views\\ViewWorkersHistory.xaml")]
->>>>>>> 7571ecdec6f946fffb0572646a52587a7ce64cc0
     public partial class ViewWorkersHistory : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -40,7 +26,6 @@ namespace DajoChicking {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ViewWorkersHistory));
             MainSearchBar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.SearchBar>(this, "MainSearchBar");
             MainListView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "MainListView");
->>>>>>> 4324b0641b5cdc118893b22b25bcbb56c3af229e:DajoChicking/DajoChicking/obj/Debug/DajoChicking.Views.ViewWorkersHistory.xaml.g.cs
         }
     }
 }
