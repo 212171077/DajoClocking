@@ -24,5 +24,21 @@ namespace DajoChicking
 
         public string Status { get; set; }
 
+        public string Role { get; set; }
+
+        public string Job_Title { get; set; }
+
+        public string Image { get; set; }
+
+        public Person()
+        {
+
+        }
+
+        public Person(string Email, string Password)
+        {
+            this.Email = Email;
+            this.Password = Password;
+        }
     }
 }

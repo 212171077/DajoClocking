@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using System.Net.Http;
+using Xamarin.Forms.Xaml;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using DajoChicking.Models;
 
 namespace DajoChicking
 {
@@ -11,15 +16,10 @@ namespace DajoChicking
     {
         String username;
         String password;
-        public List<String> helloList { get; set; }
-
-
+        private const string WebServiceUrl = "http://192.168.1.148:8080/DajoRestWS/rest/EmployeeRest/validateEmp";
         public MainPage()
         {
             InitializeComponent();
-           
-            //Setting image to the image view based on 
-            //A specific platform
             image.Source = Device.OnPlatform(
             iOS: ImageSource.FromResource("DajoChicking.logo.png"),
             Android: ImageSource.FromResource("DajoChicking.logo.png"),
@@ -27,73 +27,69 @@ namespace DajoChicking
         }
 
         private async void login(object sender, EventArgs e)
-        {
-            password = txtPassword.Text;
-            username = txtUsername.Text;
-            //getHelloAsync();
-
-            if (validateUser(username, password))
+        {                     
+           try
             {
-                /*this.DisplayAlert(
-                    "Dial a Number",
-                    "Login Successful...!!",
-                    "Ok",
-                    "Cancel");*/
+                password = txtPassword.Text;
+                username = txtUsername.Text;
 
-               
-                await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
-
-                if (username.Equals("A"))
+                if (!String.IsNullOrEmpty(username))
                 {
-                    await Navigation.PushModalAsync(new AdminPage(), false);
+                    if (!String.IsNullOrEmpty(password))
+                    {
+                        getLoginAsync(username, password);
+                    }
+                    else
+                    {
+                        DisplayAlert("Alert", "Please enter password", "OK");
+                    }
                 }
-                else if (username.Equals("W"))
+                else
                 {
-                    await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
+                    DisplayAlert("Alert", "Please enter username", "OK");
                 }
-                else {
-                    this.DisplayAlert(
-                   "Invalid User",
-                   "Please enter A or W as username",
-                   "Ok",
-                   "Cancel");
-                }
-
-                
-
             }
-            else
+            catch(Exception ex)
             {
-                this.DisplayAlert(
-                    "Dial a Number",
-                    "Login Failed...!!",
-                    "Ok",
-                    "Cancel");
+                DisplayAlert("Tapped", ex.Message, "OK");
             }
-           
-        }
-
-        public Boolean validateUser(String username,String password)
-        {
-            Boolean isValidateUser = true;
-
-            if(username.Length==0 || password.Length==0)
-            {
-                isValidateUser = false;
-            }
-            return isValidateUser;
 
         }
 
-        /*private async Task getHelloAsync()
+        private async Task getLoginAsync(string username, string password)
         {
-            var dajoClockingService = new Services.DajoClockingService();
-            helloList = await dajoClockingService.getHelloAsync();
-            this.DisplayAlert(
-                  "Hello",
-                  "Data :" + helloList,
-                  "Ok",
-                  "Cancel");
-        }*/
+            try
+            {
+                var httpClient = new HttpClient();
+                var json = await httpClient.GetStringAsync(WebServiceUrl+"/"+username+"/"+password);
+
+                var obj = JObject.Parse(json);
+                var employeeData = obj["Employee"];
+                bool status = (bool)obj["Status"];
+
+                if (status)
+                {
+                    var employee = JsonConvert.DeserializeObject<Employee>(employeeData.ToString());
+                    //DisplayAlert("Successfull", employeeData.ToString(), "OK");
+
+                    if(employee.role.Equals("Admin"))
+                    {
+                        await Navigation.PushModalAsync(new AdminPage(employee), false);
+                    }
+                    else if(employee.role.Equals("genaral User"))
+                    {
+                        await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
+                    }
+                }
+                else 
+                {
+                    DisplayAlert("Else", employeeData.ToString(), "OK");
+                }
+            }
+            catch(Exception ex)
+            {
+                DisplayAlert("Tapped", ex.Message, "OK");
+            }
+        }
     }
 }

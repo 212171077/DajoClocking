@@ -4,7 +4,6 @@
 			 xmlns:ViewModels="clr-namespace:DajoChicking.ViewModels; assembly=DajoChicking"
              x:Class="DajoChicking.ViewWorkersHistory"
              BackgroundColor="White"
-
              Title="Workers"
              Icon="ic_supervisor_account_black_24dp.png">
 
@@ -21,17 +20,9 @@
     </ContentPage.BindingContext>
 
     <StackLayout>
-        <SearchBar x:Name="MainSearchBar"
-                   HorizontalOptions="Center" Placeholder="Search text" 
-                   TextChanged="OnSearchBarTextChanged"
-                  
-     
-                   SearchButtonPressed="SearchBar_OnTextChanged"/>
-
-
         <ListView x:Name="MainListView" 
                   IsPullToRefreshEnabled="true"
-              ItemsSource="{Binding peopleList}"
+              ItemsSource="{Binding Employees}"
               ItemSelected="OnItemSelected"
               HasUnevenRows="True">
             <ListView.ItemTemplate>
@@ -43,15 +34,15 @@
 
                             <StackLayout Orientation="Vertical" 
                                  Padding="40">
-                                <Label Text="{Binding Name}" Font="Bold"/>
-                                <Label Text="{Binding ID}" Font="Bold" Opacity="0.6"/>
+                                <Label Text="{Binding name}" Font="Bold"/>
+                                <Label Text="{Binding emp_id}" Font="Bold" Opacity="0.6"/>
 
                             </StackLayout>
 
                             <StackLayout Orientation="Vertical" 
                                  Padding="40" >
-                                <Label Text="{Binding Surname}" Font="Bold"/>
-                                <Label Text="{Binding Status}" Font="Bold" Opacity="0.6"/>
+                                <Label Text="{Binding surname}" Font="Bold"/>
+                                <Label Text="{Binding job_title}" Font="Bold" Opacity="0.6"/>
                             </StackLayout>
 
                         </StackLayout>

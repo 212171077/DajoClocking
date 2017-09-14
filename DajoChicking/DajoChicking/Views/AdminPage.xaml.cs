@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DajoChicking.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,10 +11,13 @@ namespace DajoChicking
 {
     public partial class AdminPage : TabbedPage
     {
-        public AdminPage()
+        public static Employee emp = new Employee();
+        public AdminPage(Employee employee)
         {
             InitializeComponent();
-
+            emp = employee;
+           
         }
+
     }
 }

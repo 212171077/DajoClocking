@@ -35,9 +35,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Models\Clocking.cs" />
+    <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\Timesheet.cs" />
     <Compile Include="RestClient\RestClient.cs" />
     <Compile Include="RestClient\TaskModel.cs" />
+    <Compile Include="Services\ClockingService.cs" />
     <Compile Include="Services\DajoClockingService.cs" />
+    <Compile Include="ViewModels\ClockingViewModel.cs" />
     <Compile Include="Views\AdminPage.xaml.cs">
       <DependentUpon>AdminPage.xaml</DependentUpon>
     </Compile>

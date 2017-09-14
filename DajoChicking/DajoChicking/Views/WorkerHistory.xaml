@@ -4,18 +4,19 @@
              xmlns:ViewModels="clr-namespace:DajoChicking.ViewModels; assembly=DajoChicking"
              x:Class="DajoChicking.WorkerHistory"
              BackgroundColor="White"
-             Title="History" Icon="ic_history_black_24dp.png">
+             Title="History" 
+             Icon="ic_history_black_24dp.png">
 
-       
-        <ContentPage.Padding>
-            <OnPlatform x:TypeArguments="Thickness"
-                    iOS="10, 20, 10, 10"
-                    Android="10, 10, 10, 10"
-                    WinPhone="10, 10, 10, 10" />
-        </ContentPage.Padding>
 
-        <ContentPage.BindingContext>
-            <ViewModels:MainViewModel/>
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                iOS="10, 20, 10, 10"
+                Android="10, 10, 10, 10"
+                WinPhone="10, 10, 10, 10" />
+    </ContentPage.Padding>
+
+    <ContentPage.BindingContext>
+        <ViewModels:ClockingViewModel/>
         </ContentPage.BindingContext>
     
     <StackLayout>
@@ -24,31 +25,28 @@
         <ListView x:Name="MainListView" 
                   ItemSelected="OnItemSelected"
                   HasUnevenRows="True"
-                  ItemsSource="{Binding peopleList}">
+                  ItemsSource="{Binding Clockings}">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell>
-                        
+                    <ViewCell>                        
                         <StackLayout Orientation="Horizontal">
                             <Grid BackgroundColor="White"
                                   HeightRequest="1"/>
 
                             <StackLayout Orientation="Vertical" 
-                                     Padding="40">
-                                <Label Text="Date" Font="Bold"/>
-                                <Label Text="Clock-in Time" Font="Bold" Opacity="0.6"/>
-                                <Label Text="Clock-out Time" Font="Bold" Opacity="0.6"/>
+                                            Padding="40">
+                                <Label Text="{Binding date}" Font="Bold"/>
+                                <Label Text="{Binding in_time}" Font="Bold" Opacity="0.6"/>
+                                <Label Text="{Binding out_time}" Font="Bold" Opacity="0.6"/>
                             </StackLayout>
 
                             <StackLayout Orientation="Vertical" 
                                      Padding="40" >
-                                <Label Text=""/>
-                                <Label Text="Location"/>
-                                
-                                <Label Text="DAJO Office" Font="Bold" Opacity="0.6"/>
+                                <Label Text="Locations"/>
+                                <Label Text="{Binding in_location}"/>
+                                <Label Text="{Binding out_location}" Font="Bold" Opacity="0.6"/>
                             </StackLayout>
                         </StackLayout>
-
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

@@ -21,7 +21,6 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csproj.App.config
-C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csprojResolveAssemblyReference.cache
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.MainPage.xaml.g.cs
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.App.xaml.g.cs
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.Clocking.xaml.g.cs
@@ -33,3 +32,4 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.MyHistoryTabbedPage.xaml.g.cs
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csprojResolveAssemblyReference.cache

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
-
+using DajoChicking.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Newtonsoft.Json;
@@ -15,46 +15,61 @@ namespace DajoChicking
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class WorkerHistory : ContentPage
     {
-        public List<Person> PersonList =new List<Person>();
-        private const string WebServiceUrl = "http://192.168.1.148:8080/DajoClockingWS/rest/hello/getPerson/";
+        public Employee employee = AdminPage.emp;
+        public List<Clocking> Clockings = new List<Clocking>();
+        private const string WebServiceUrl = "http://192.168.1.148:8080/DajoRestWS/rest/ClockingRest/getAllByID/93042496082082";
+
         public WorkerHistory()
         {
             InitializeComponent();
-            await getPersonAsync();
-
-            //MainListView.ItemsSource = people;
+            DisplayAlert("Displaying Employee", employee.name, "OK");
+            getClockingAsync();
         }
         
-        public void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
-        { 
-           
-        }
-
-
-        private async Task getPersonAsync()
+        private async Task getClockingAsync()
         {
-            var httpClient = new HttpClient();
-            var json = await httpClient.GetStringAsync(WebServiceUrl);
-           
-            var obj = JObject.Parse(json);
-            var personList = (JArray)obj["List"];
-            bool status= (bool)obj["Status"];
-
-            if (status)
+            try
             {
-                var data = "";
-                // var plist = JsonConvert.DeserializeObject<List<Person>>(json);
-                foreach (var item in personList)
+                var httpClient = new HttpClient();
+                var json = await httpClient.GetStringAsync(WebServiceUrl);
+
+                var obj = JObject.Parse(json);
+                var tempClockings = (JArray)obj["Clockings"];
+                bool status = (bool)obj["Status"];
+
+                if (status)
                 {
-                    
-                    data = item.ToString();
-                    var person = JsonConvert.DeserializeObject<Person>(data);
-                   
-                    PersonList.Add(person);
-                    MainListView.ItemsSource = PersonList;
+                    var data = "";
+                    // var plist = JsonConvert.DeserializeObject<List<Person>>(json);
+                    foreach (var item in tempClockings)
+                    {
+                        data = item.ToString();
+                        var clocking = JsonConvert.DeserializeObject<Clocking>(data);
+                        Clockings.Add(clocking);
+
+                        // DisplayAlert("Tapped", data, "OK");
+                        MainListView.ItemsSource = Clockings;
+                    }
                 }
+                else
+                {
+                    var label = new Label { Text = "No History available.", TextColor = Color.FromHex("#77d065"), FontSize = 30, TranslationY = 30 };
+                }
+            }
+            catch (Exception ex)
+            {
+                DisplayAlert("Tapped", ex.Message, "OK");
             }
         }
 
+        public async void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+            if (e.SelectedItem == null) return; // has been set to null, do not 'process' tapped event
+
+            //await Navigation.PushModalAsync(new Views.MyHistory(e.SelectedItem as Clocking), false);
+
+             DisplayAlert("Tapped", e.SelectedItem + " row was tapped", "OK");
+            ((ListView)sender).SelectedItem = null; // de-select the row
+        }
     }
 }
