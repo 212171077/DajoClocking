@@ -1,3 +1,72 @@
+<<<<<<< HEAD
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.App.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csprojResolveAssemblyReference.cache
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.AdminPage.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.ViewWorkersHistory.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll.mdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.mdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.MainPage.xaml.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.App.xaml.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Clocking.xaml.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.WorkerTabbedPage.xaml.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.WorkerHistory.xaml.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.pdb
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.MainPage.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.Clocking.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.WorkerTabbedPage.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.WorkerHistory.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.AdminPage.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.ViewWorkersHistory.xaml.g.cs
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csproj.App.config
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.config
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\System.Net.Http.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\System.Net.Http.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csproj.App.config
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.MainPage.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.App.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.Clocking.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.WorkerTabbedPage.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.WorkerHistory.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.AdminPage.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.ViewWorkersHistory.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.MyHistory.xaml.g.cs
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.MyHistoryTabbedPage.xaml.g.cs
+=======
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll.config
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\bin\Debug\DajoChicking.pdb
@@ -32,4 +101,8 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.Views.MyHistoryTabbedPage.xaml.g.cs
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.pdb
+<<<<<<< HEAD
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\obj\Debug\DajoChicking.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04

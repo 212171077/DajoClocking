@@ -104,6 +104,11 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\obj\Debug\ProjectArchitectures.txt
+<<<<<<< HEAD
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.exe.config
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Newtonsoft.Json.xml
+=======
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\App.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\MainPage.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.xr.xml
@@ -130,6 +135,7 @@ C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChic
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.csprojResolveAssemblyReference.cache
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.g.i.cs
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.g.cs
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.g.i.cs
@@ -140,6 +146,9 @@ C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChic
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\App.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\MainPage.xbf
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\XamlSaveStateFile.xml
+<<<<<<< HEAD
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.csprojResolveAssemblyReference.cache
+=======
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.exe
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.pdb
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.csproj.GenerateResource.Cache
@@ -173,6 +182,7 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\XamlSaveStateFile.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.exe
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\DajoChicking.WinPhone.pdb
+<<<<<<< HEAD
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\DajoChicking.WinPhone.exe.config
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\App.xbf
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\bin\Debug\MainPage.xbf
@@ -216,3 +226,6 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\obj\Debug\ProjectArchitectures.txt
+=======
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 
 #pragma checksum "C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\MainPage.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "14940A0F33CA81C0E8D503D6D59DA6AC"
@@ -25,3 +26,5 @@ namespace DajoChicking.WinPhone
 }
 
 
+=======
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04

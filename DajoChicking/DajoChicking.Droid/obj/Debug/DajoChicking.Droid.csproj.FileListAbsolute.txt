@@ -98,6 +98,8 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\DajoChicking.Droid.dll.mdb
+<<<<<<< HEAD
+=======
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.dll
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.pdb
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.apk
@@ -164,6 +166,7 @@ C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChic
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.dll
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.pdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.apk
@@ -222,6 +225,8 @@ C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\Daj
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\bin\Debug\Mono.CSharp.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
 C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+<<<<<<< HEAD
+=======
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.dll.config
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.Droid\bin\Debug\DajoChicking.Droid.pdb
@@ -291,3 +296,4 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975

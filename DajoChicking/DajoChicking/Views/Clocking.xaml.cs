@@ -14,6 +14,8 @@ namespace DajoChicking
         public Clocking()
         {
             InitializeComponent();
+<<<<<<< HEAD
+=======
             //Setting image to the image view based on 
             //A specific platform
 
@@ -23,6 +25,7 @@ namespace DajoChicking
             Android: ImageSource.FromResource("DajoChicking.profile.png"),
             WinPhone: ImageSource.FromResource("DajoChicking.profile.png"));*/
 
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
 
         }
 

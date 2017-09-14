@@ -30,8 +30,25 @@ namespace DajoChicking
         {                     
            try
             {
+<<<<<<< HEAD
                 password = txtPassword.Text;
                 username = txtUsername.Text;
+=======
+                /*this.DisplayAlert(
+                    "Dial a Number",
+                    "Login Successful...!!",
+                    "Ok",
+                    "Cancel");*/
+<<<<<<< HEAD
+               
+                await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
+
+=======
+
+               
+                await Navigation.PushModalAsync(new WorkerTabbedPage(), false);
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04
 
                 if (!String.IsNullOrEmpty(username))
                 {
@@ -48,6 +65,22 @@ namespace DajoChicking
                 {
                     DisplayAlert("Alert", "Please enter username", "OK");
                 }
+<<<<<<< HEAD
+=======
+                else {
+                    this.DisplayAlert(
+                   "Invalid User",
+                   "Please enter A or W as username",
+                   "Ok",
+                   "Cancel");
+                }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+                
+
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04
             }
             catch(Exception ex)
             {

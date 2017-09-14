@@ -15,6 +15,7 @@ namespace DajoChicking
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class WorkerHistory : ContentPage
     {
+<<<<<<< HEAD
         public Employee employee = AdminPage.emp;
         public List<Clocking> Clockings = new List<Clocking>();
         private const string WebServiceUrl = "http://192.168.1.148:8080/DajoRestWS/rest/ClockingRest/getAllByID/93042496082082";
@@ -27,6 +28,56 @@ namespace DajoChicking
         }
         
         private async Task getClockingAsync()
+=======
+<<<<<<< HEAD
+        public List<Person> PersonList = new List<Person>();
+        private const string WebServiceUrl = "http://192.168.1.148:8080/FirstRestWebservice/rest/hello/getPerson/";
+        public WorkerHistory()
+        {
+            InitializeComponent();
+            getPersonAsync();
+=======
+        public List<Person> PersonList =new List<Person>();
+        private const string WebServiceUrl = "http://192.168.1.148:8080/DajoClockingWS/rest/hello/getPerson/";
+        public WorkerHistory()
+        {
+            InitializeComponent();
+            await getPersonAsync();
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+            //MainListView.ItemsSource = people;
+        }
+
+        public void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        { 
+<<<<<<< HEAD
+        }
+
+
+        private readonly List<string> _names = new List<string> {
+                "Patrick","Owami","Themba","Pat","Momelezi"
+        };
+
+   
+
+        private void MainSearchBar_SearchButtonPressed(object sender, EventArgs e)
+        {
+            if (e.SelectedItem == null) return; // has been set to null, do not 'process' tapped event
+
+      
+            DisplayAlert("Tapped", (e.SelectedItem as Person).Name + " row was tapped", "OK" );
+            ((ListView)sender).SelectedItem = null; // de-select the row
+        }
+     
+
+=======
+           
+        }
+
+
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+        private async Task getPersonAsync()
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04
         {
             try
             {
@@ -61,7 +112,10 @@ namespace DajoChicking
                 DisplayAlert("Tapped", ex.Message, "OK");
             }
         }
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
         public async void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             if (e.SelectedItem == null) return; // has been set to null, do not 'process' tapped event
@@ -71,5 +125,8 @@ namespace DajoChicking
              DisplayAlert("Tapped", e.SelectedItem + " row was tapped", "OK");
             ((ListView)sender).SelectedItem = null; // de-select the row
         }
+=======
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04
     }
 }

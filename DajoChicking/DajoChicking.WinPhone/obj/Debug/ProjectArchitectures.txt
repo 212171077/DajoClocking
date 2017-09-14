@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking.WinPhone\DajoChicking.WinPhone.csproj;neutral
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClocking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
+=======
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking.WinPhone\DajoChicking.WinPhone.csproj;neutral
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DajoClicking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking.WinPhone\DajoChicking.WinPhone.csproj;neutral
+C:\Users\Patrick\Desktop\VisualStudioProjects\DajoClocking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking.WinPhone\DajoChicking.WinPhone.csproj;neutral
+C:\Users\Christoph Sibiya\documents\visual studio 2015\Projects\DajoChicking\DajoChicking\DajoChicking\DajoChicking.csproj;neutral
+<<<<<<< HEAD
+
+=======
+>>>>>>> 90eb65c7715d38ca972dec29c5430c247e5fd975
+>>>>>>> 845d16acbe932f605e3fab1f3ade93047cf29c04
